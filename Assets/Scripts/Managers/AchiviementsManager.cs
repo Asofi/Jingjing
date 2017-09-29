@@ -10,21 +10,21 @@ public class AchiviementsManager : MonoBehaviour {
     const string CUR_STEP_POSTFIX = "_CurStep";
 
     public Dictionary<string, Achievement> AchieveList = new Dictionary<string, Achievement> {
-        {"Rookie", new Achievement("CgkIqNyn1rkEEAIQAg", "00000") },
-        {"Amateur", new Achievement("CgkIqNyn1rkEEAIQAw", "00000") },
-        {"Pro", new Achievement("CgkIqNyn1rkEEAIQBA", "00000") },
-        {"Gamer", new Achievement("CgkIqNyn1rkEEAIQBQ", "00000") },
+        {"Rookie", new Achievement("CgkIqNyn1rkEEAIQAg", "CgkIqNyn1rkEEAIQAg") },
+        {"Amateur", new Achievement("CgkIqNyn1rkEEAIQAw", "CgkIqNyn1rkEEAIQAw") },
+        {"Pro", new Achievement("CgkIqNyn1rkEEAIQBA", "CgkIqNyn1rkEEAIQBA") },
+        {"Gamer", new Achievement("CgkIqNyn1rkEEAIQBQ", "CgkIqNyn1rkEEAIQBQ") },
 
-        {"Skin Collector", new Achievement("CgkIqNyn1rkEEAIQDA", "00000", 0, 3) },
+        {"Skin Collector", new Achievement("CgkIqNyn1rkEEAIQDA", "CgkIqNyn1rkEEAIQDA", 0, 3) },
 
-        {"Friendly", new Achievement("CgkIqNyn1rkEEAIQCg", "00000", 0, 5) },
+        {"Friendly", new Achievement("CgkIqNyn1rkEEAIQCg", "CgkIqNyn1rkEEAIQCg", 0, 5) },
 
-        {"TV-zombie", new Achievement("CgkIqNyn1rkEEAIQCw", "00000", 0, 50) },
+        {"TV-zombie", new Achievement("CgkIqNyn1rkEEAIQCw", "CgkIqNyn1rkEEAIQCw", 0, 50) },
 
-        {"Super-Rookie", new Achievement("CgkIqNyn1rkEEAIQBg", "00000") },
-        {"Super-Amateur", new Achievement("CgkIqNyn1rkEEAIQBw", "00000") },
-        {"Super-Pro", new Achievement("CgkIqNyn1rkEEAIQCQ", "00000") },
-        {"Super-Gamer", new Achievement("CgkIqNyn1rkEEAIQAg", "00000") },
+        {"Super-Rookie", new Achievement("CgkIqNyn1rkEEAIQBg", "CgkIqNyn1rkEEAIQBg") },
+        {"Super-Amateur", new Achievement("CgkIqNyn1rkEEAIQBw", "CgkIqNyn1rkEEAIQBw") },
+        {"Super-Pro", new Achievement("CgkIqNyn1rkEEAIQCQ", "CgkIqNyn1rkEEAIQCQ") },
+        {"Super-Gamer", new Achievement("CgkIqNyn1rkEEAIQAg", "CgkIqNyn1rkEEAIQAg") },
     };
 
     public class Achievement

@@ -9,7 +9,11 @@ public class HamburgerImplementation : MonoBehaviour {
     [SerializeField] private string AndroidId;
     [SerializeField] private string IosId;
     [Tooltip("Other Games Link")]
-    [SerializeField] private string OtherGamesLink = "http://fasttap.io";
+    private string OtherGamesLink;
+    [SerializeField]
+    private string OtherGamesLinkAndroid = "https://play.google.com/store/apps/developer?id=Fast+Tap,+OOO";
+    [SerializeField]
+    private string OtherGamesLinkIOS = "itms-apps://itunes.apple.com/artist/fast-tap-ooo/id1205555416";
 
     public UnityEngine.UI.Text ScreenBestScore;
 
@@ -35,6 +39,11 @@ public class HamburgerImplementation : MonoBehaviour {
         Instance = Instance ?? this;
         nativeShare = GetComponent<NativeShare>();
         //EnableCanvas(false);
+#if UNITY_ANDROID
+        OtherGamesLink = OtherGamesLinkAndroid;
+#elif UNITY_IOS
+        OtherGamesLink = OtherGamesLinkIOS;
+#endif
     }
 
     /// <summary>
@@ -60,11 +69,11 @@ public class HamburgerImplementation : MonoBehaviour {
     /// </summary>
     public void OpenRateLink()
     {
-        #if UNITY_ANDROID
+#if UNITY_ANDROID
             Application.OpenURL(AndroidAppRateUrl + AndroidId);
-        #elif UNITY_IOS
+#elif UNITY_IOS
             Application.OpenURL(IOSAppRateUrl + IosId);
-        #endif
+#endif
     }
 
     /// <summary>

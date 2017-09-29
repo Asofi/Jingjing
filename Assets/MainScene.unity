@@ -5965,11 +5965,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 927602e1510618e48b94fd505d576041, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  AndroidId: 
-  IosId: 
-  OtherGamesLink: http://fasttap.io
+  AndroidId: io.fasttap.jingjing
+  IosId: 1290850887
+  OtherGamesLinkAndroid: https://play.google.com/store/apps/developer?id=Fast+Tap,+OOO
+  OtherGamesLinkIOS: itms-apps://itunes.apple.com/artist/fast-tap-ooo/id1205555416
   ScreenBestScore: {fileID: 1179205853}
-  TextWithoutURL: 
+  TextWithoutURL: 'Try this app at: '
   CanvasToShow: {fileID: 1180572706}
 --- !u!114 &1180572709
 MonoBehaviour:
@@ -8368,7 +8369,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   AndroidLeaderboardID: CgkIqNyn1rkEEAIQAA
-  IOSLeaderboardID: CgkIqNyn1rkEEAIQAA
+  IOSLeaderboardID: io.fasttap.jingjing.leaderboard
   currentScore: 0
   allScore: 0
 --- !u!4 &1737828393
