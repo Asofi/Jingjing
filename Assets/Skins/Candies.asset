@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd33737107eb534db8e19897bea6d71, type: 3}
+  m_Name: Candies
+  m_EditorClassIdentifier: 
+  Cost: 0
+  Bates: {fileID: 21300000, guid: db55780ee742b744999faf93f460b007, type: 3}
+  Ball: {fileID: 21300000, guid: c250c32b515835f468470d915943e908, type: 3}
+  Deck: {fileID: 21300000, guid: bfc10cb02a4d33442a4fcbf108e86729, type: 3}
+  Background: {fileID: 21300000, guid: 7a7224ac52e2a0240aaff2bd283b0b99, type: 3}
+  Header: {fileID: 21300000, guid: b6b609447c450724289409dcd015c813, type: 3}
+  Leaderboard: {fileID: 21300000, guid: 0c80c979eaf734349ac8ef29df71c21d, type: 3}
+  Sound: {fileID: 21300000, guid: 8bcf7d27d5f58a64fb49b1c2ae106009, type: 3}
+  SoundOff: {fileID: 21300000, guid: 8ffab4dbde2d3fb4b8cb139e882ca8e5, type: 3}
+  Share: {fileID: 21300000, guid: 68a94916f83791e4f89b5c7fbf4e6011, type: 3}
+  CommonController: {fileID: 9100000, guid: d0216edd96fd62a498a3ba4b7ab1ae7f, type: 2}
+  CommonSound: Candies_Main Blocks
+  SpinnerController: {fileID: 9100000, guid: 673e9fbba99dac942a27abab18807c23, type: 2}
+  SpinnerSound: Candies_Long Blocks
+  SolidController: {fileID: 9100000, guid: a464d10490453c44ab6cb8fe891b2fb9, type: 2}
+  SolidSound: Candies_Double Blocks
+  SolidCrashSound: Candies_Double Blocks
+  StickyController: {fileID: 9100000, guid: 24929c36802d90e42b2917be4d71942b, type: 2}
+  StickySound: Candies_05 Blocks
+  BonusController: {fileID: 9100000, guid: 0042e244b3ce6c44188c9324b091dd8f, type: 2}
+  BonusSound: Candies_Star Blocks

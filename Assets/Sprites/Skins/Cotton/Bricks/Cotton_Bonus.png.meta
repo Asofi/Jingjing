@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: dbf3f1c597e14744bb74b3b05b18861c
+timeCreated: 1495541426
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_0"
+    21300002: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_1"
+    21300004: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_2"
+    21300006: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_3"
+    21300008: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_4"
+    21300010: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_5"
+    21300012: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_6"
+    21300014: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_7"
+    21300016: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_8"
+    21300018: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_9"
+    21300020: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_10"
+    21300022: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_11"
+    21300024: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_12"
+    21300026: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_13"
+    21300028: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_14"
+    21300030: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_15"
+    21300032: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_16"
+    21300034: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_17"
+    21300036: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_18"
+    21300038: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_19"
+    21300040: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_20"
+    21300042: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_21"
+    21300044: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_22"
+    21300046: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_23"
+    21300048: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_24"
+    21300050: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_25"
+    21300052: "\u043A\u043B\u0443\u0431\u043E\u043A-\u0431\u043E\u043D\u0443\u0441.2_26"
+    21300054: Cotton_Bonus_0
+    21300056: Cotton_Bonus_1
+    21300058: Cotton_Bonus_2
+    21300060: Cotton_Bonus_3
+    21300062: Cotton_Bonus_4
+    21300064: Cotton_Bonus_5
+    21300066: Cotton_Bonus_6
+    21300068: Cotton_Bonus_7
+    21300070: Cotton_Bonus_8
+    21300072: Cotton_Bonus_9
+    21300074: Cotton_Bonus_10
+    21300076: Cotton_Bonus_11
+    21300078: Cotton_Bonus_12
+    21300080: Cotton_Bonus_13
+    21300082: Cotton_Bonus_14
+    21300084: Cotton_Bonus_15
+    21300086: Cotton_Bonus_16
+    21300088: Cotton_Bonus_17
+    21300090: Cotton_Bonus_18
+    21300092: Cotton_Bonus_19
+    21300094: Cotton_Bonus_20
+    21300096: Cotton_Bonus_21
+    21300098: Cotton_Bonus_22
+    21300100: Cotton_Bonus_23
+    21300102: Cotton_Bonus_24
+    21300104: Cotton_Bonus_25
+    21300106: Cotton_Bonus_26
+    21300108: Cotton_Bonus_27
+    21300110: Cotton_Bonus_28
+    21300112: Cotton_Bonus_29
+    21300114: Cotton_Bonus_30
+    21300116: Cotton_Bonus_31
+    21300118: Cotton_Bonus_32
+    21300120: Cotton_Bonus_33
+    21300122: Cotton_Bonus_34
+    21300124: Cotton_Bonus_35
+    21300126: Cotton_Bonus_36
+    21300128: Cotton_Bonus_37
+    21300130: Cotton_Bonus_38
+    21300132: Cotton_Bonus_39
+    21300134: Cotton_Bonus_40
+    21300136: Cotton_Bonus_41
+    21300138: Cotton_Bonus_42
+    21300140: Cotton_Bonus_43
+    21300142: Cotton_Bonus_44
+    21300144: Cotton_Bonus_45
+    21300146: Cotton_Bonus_46
+    21300148: Cotton_Bonus_47
+    21300150: Cotton_Bonus_48
+    21300152: Cotton_Bonus_49
+    21300154: Cotton_Bonus_50
+    21300156: Cotton_Bonus_51
+    21300158: Cotton_Bonus_52
+    21300160: Cotton_Bonus_53
+    21300162: Cotton_Bonus_54
+    21300164: Cotton_Bonus_55
+    21300166: Cotton_Bonus_56
+    21300168: Cotton_Bonus_57
+    21300170: Cotton_Bonus_58
+    21300172: Cotton_Bonus_59
+    21300174: Cotton_Bonus_60
+    21300176: Cotton_Bonus_61
+    21300178: Cotton_Bonus_62
+    21300180: Cotton_Bonus_63
+    21300182: Cotton_Bonus_64
+    21300184: Cotton_Bonus_65
+    21300186: Cotton_Bonus_66
+    21300188: Cotton_Bonus_67
+    21300190: Cotton_Bonus_68
+    21300192: Cotton_Bonus_69
+    21300194: Cotton_Bonus_70
+    21300196: Cotton_Bonus_71
+    21300198: Cotton_Bonus_72
+    21300200: Cotton_Bonus_73
+    21300202: Cotton_Bonus_74
+    21300204: Cotton_Bonus_75
+    21300206: Cotton_Bonus_76
+    21300208: Cotton_Bonus_77
+    21300210: Cotton_Bonus_78
+    21300212: Cotton_Bonus_79
+    21300214: Cotton_Bonus_80
+    21300216: Cotton_Bonus_81
+    21300218: Cotton_Bonus_82
+    21300220: Cotton_Bonus_83
+    21300222: Cotton_Bonus_84
+    21300224: Cotton_Bonus_85
+    21300226: Cotton_Bonus_86
+    21300228: Cotton_Bonus_87
+    21300230: Cotton_Bonus_88
+    21300232: Cotton_Bonus_89
+    21300234: Cotton_Bonus_90
+    21300236: Cotton_Bonus_91
+    21300238: Cotton_Bonus_92
+    21300240: Cotton_Bonus_93
+    21300242: Cotton_Bonus_94
+    21300244: Cotton_Bonus_95
+    21300246: Cotton_Bonus_96
+    21300248: Cotton_Bonus_97
+    21300250: Cotton_Bonus_98
+    21300252: Cotton_Bonus_99
+    21300254: Cotton_Bonus_100
+    21300256: Cotton_Bonus_101
+    21300258: Cotton_Bonus_102
+    21300260: Cotton_Bonus_103
+    21300262: Cotton_Bonus_104
+    21300264: Cotton_Bonus_105
+    21300266: Cotton_Bonus_106
+    21300268: Cotton_Bonus_107
+    21300270: Cotton_Bonus_108
+    21300272: Cotton_Bonus_109
+    21300274: Cotton_Bonus_110
+    21300276: Cotton_Bonus_111
+    21300278: Cotton_Bonus_112
+    21300280: Cotton_Bonus_113
+    21300282: Cotton_Bonus_114
+    21300284: Cotton_Bonus_115
+    21300286: Cotton_Bonus_116
+    21300288: Cotton_Bonus_117
+    21300290: Cotton_Bonus_118
+    21300292: Cotton_Bonus_119
+    21300294: Cotton_Bonus_120
+    21300296: Cotton_Bonus_121
+    21300298: Cotton_Bonus_122
+    21300300: Cotton_Bonus_123
+    21300302: Cotton_Bonus_124
+    21300304: Cotton_Bonus_125
+    21300306: Cotton_Bonus_126
+    21300308: Cotton_Bonus_127
+    21300310: Cotton_Bonus_128
+    21300312: Cotton_Bonus_129
+    21300314: Cotton_Bonus_130
+    21300316: Cotton_Bonus_131
+    21300318: Cotton_Bonus_132
+    21300320: Cotton_Bonus_133
+    21300322: Cotton_Bonus_134
+    21300324: Cotton_Bonus_135
+    21300326: Cotton_Bonus_136
+    21300328: Cotton_Bonus_137
+    21300330: Cotton_Bonus_138
+    21300332: Cotton_Bonus_139
+    21300334: Cotton_Bonus_140
+    21300336: Cotton_Bonus_141
+    21300338: Cotton_Bonus_142
+    21300340: Cotton_Bonus_143
+    21300342: Cotton_Bonus_144
+    21300344: Cotton_Bonus_145
+    21300346: Cotton_Bonus_146
+    21300348: Cotton_Bonus_147
+    21300350: Cotton_Bonus_148
+    21300352: Cotton_Bonus_149
+    21300354: Cotton_Bonus_150
+    21300356: Cotton_Bonus_151
+    21300358: Cotton_Bonus_152
+    21300360: Cotton_Bonus_153
+    21300362: Cotton_Bonus_154
+    21300364: Cotton_Bonus_155
+    21300366: Cotton_Bonus_156
+    21300368: Cotton_Bonus_157
+    21300370: Cotton_Bonus_158
+    21300372: Cotton_Bonus_159
+    21300374: Cotton_Bonus_160
+    21300376: Cotton_Bonus_161
+    21300378: Cotton_Bonus_162
+    21300380: Cotton_Bonus_163
+    21300382: Cotton_Bonus_164
+    21300384: Cotton_Bonus_165
+    21300386: Cotton_Bonus_166
+    21300388: Cotton_Bonus_167
+    21300390: Cotton_Bonus_168
+    21300392: Cotton_Bonus_169
+    21300394: Cotton_Bonus_170
+    21300396: Cotton_Bonus_171
+    21300398: Cotton_Bonus_172
+    21300400: Cotton_Bonus_173
+    21300402: Cotton_Bonus_174
+    21300404: Cotton_Bonus_175
+    21300406: Cotton_Bonus_176
+    21300408: Cotton_Bonus_177
+    21300410: Cotton_Bonus_178
+    21300412: Cotton_Bonus_179
+    21300414: Cotton_Bonus_180
+    21300416: Cotton_Bonus_181
+    21300418: Cotton_Bonus_182
+    21300420: Cotton_Bonus_183
+    21300422: Cotton_Bonus_184
+    21300424: Cotton_Bonus_185
+    21300426: Cotton_Bonus_186
+    21300428: Cotton_Bonus_187
+    21300430: Cotton_Bonus_188
+    21300432: Cotton_Bonus_189
+    21300434: Cotton_Bonus_190
+    21300436: Cotton_Bonus_191
+    21300438: Cotton_Bonus_192
+    21300440: Cotton_Bonus_193
+    21300442: Cotton_Bonus_194
+    21300444: Cotton_Bonus_195
+    21300446: Cotton_Bonus_196
+    21300448: Cotton_Bonus_197
+    21300450: Cotton_Bonus_198
+    21300452: Cotton_Bonus_199
+    21300454: Cotton_Bonus_200
+    21300456: Cotton_Bonus_201
+    21300458: Cotton_Bonus_202
+    21300460: Cotton_Bonus_203
+    21300462: Cotton_Bonus_204
+    21300464: Cotton_Bonus_205
+    21300466: Cotton_Bonus_206
+    21300468: Cotton_Bonus_207
+    21300470: Cotton_Bonus_208
+    21300472: Cotton_Bonus_209
+    21300474: Cotton_Bonus_210
+    21300476: Cotton_Bonus_211
+    21300478: Cotton_Bonus_212
+    21300480: Cotton_Bonus_213
+    21300482: Cotton_Bonus_214
+    21300484: Cotton_Bonus_215
+    21300486: Cotton_Bonus_216
+    21300488: Cotton_Bonus_217
+    21300490: Cotton_Bonus_218
+    21300492: Cotton_Bonus_219
+    21300494: Cotton_Bonus_220
+    21300496: Cotton_Bonus_221
+    21300498: Cotton_Bonus_222
+    21300500: Cotton_Bonus_223
+    21300502: Cotton_Bonus_224
+    21300504: Cotton_Bonus_225
+    21300506: Cotton_Bonus_226
+    21300508: Cotton_Bonus_227
+    21300510: Cotton_Bonus_228
+    21300512: Cotton_Bonus_229
+    21300514: Cotton_Bonus_230
+    21300516: Cotton_Bonus_231
+    21300518: Cotton_Bonus_232
+    21300520: Cotton_Bonus_233
+    21300522: Cotton_Bonus_234
+    21300524: Cotton_Bonus_235
+    21300526: Cotton_Bonus_236
+    21300528: Cotton_Bonus_237
+    21300530: Cotton_Bonus_238
+    21300532: Cotton_Bonus_239
+    21300534: Cotton_Bonus_240
+    21300536: Cotton_Bonus_241
+    21300538: Cotton_Bonus_242
+    21300540: Cotton_Bonus_243
+    21300542: Cotton_Bonus_244
+    21300544: Cotton_Bonus_245
+    21300546: Cotton_Bonus_246
+    21300548: Cotton_Bonus_247
+    21300550: Cotton_Bonus_248
+    21300552: Cotton_Bonus_249
+    21300554: Cotton_Bonus_250
+    21300556: Cotton_Bonus_251
+    21300558: Cotton_Bonus_252
+    21300560: Cotton_Bonus_253
+    21300562: Cotton_Bonus_254
+    21300564: Cotton_Bonus_255
+    21300566: Cotton_Bonus_256
+    21300568: Cotton_Bonus_257
+    21300570: Cotton_Bonus_258
+    21300572: Cotton_Bonus_259
+    21300574: Cotton_Bonus_260
+    21300576: Cotton_Bonus_261
+    21300578: Cotton_Bonus_262
+    21300580: Cotton_Bonus_263
+    21300582: Cotton_Bonus_264
+    21300584: Cotton_Bonus_265
+    21300586: Cotton_Bonus_266
+    21300588: Cotton_Bonus_267
+    21300590: Cotton_Bonus_268
+    21300592: Cotton_Bonus_269
+    21300594: Cotton_Bonus_270
+    21300596: Cotton_Bonus_271
+    21300598: Cotton_Bonus_272
+    21300600: Cotton_Bonus_273
+    21300602: Cotton_Bonus_274
+    21300604: Cotton_Bonus_275
+    21300606: Cotton_Bonus_276
+    21300608: Cotton_Bonus_277
+    21300610: Cotton_Bonus_278
+    21300612: Cotton_Bonus_279
+    21300614: Cotton_Bonus_280
+    21300616: Cotton_Bonus_281
+    21300618: Cotton_Bonus_282
+    21300620: Cotton_Bonus_283
+    21300622: Cotton_Bonus_284
+    21300624: Cotton_Bonus_285
+    21300626: Cotton_Bonus_286
+    21300628: Cotton_Bonus_287
+    21300630: Cotton_Bonus_288
+    21300632: Cotton_Bonus_289
+    21300634: Cotton_Bonus_290
+    21300636: Cotton_Bonus_291
+    21300638: Cotton_Bonus_292
+    21300640: Cotton_Bonus_293
+    21300642: Cotton_Bonus_294
+    21300644: Cotton_Bonus_295
+    21300646: Cotton_Bonus_296
+    21300648: Cotton_Bonus_297
+    21300650: Cotton_Bonus_298
+    21300652: Cotton_Bonus_299
+    21300654: Cotton_Bonus_300
+    21300656: Cotton_Bonus_301
+    21300658: Cotton_Bonus_302
+    21300660: Cotton_Bonus_303
+    21300662: Cotton_Bonus_304
+    21300664: Cotton_Bonus_305
+    21300666: Cotton_Bonus_306
+    21300668: Cotton_Bonus_307
+    21300670: Cotton_Bonus_308
+    21300672: Cotton_Bonus_309
+    21300674: Cotton_Bonus_310
+    21300676: Cotton_Bonus_311
+    21300678: Cotton_Bonus_312
+    21300680: Cotton_Bonus_313
+    21300682: Cotton_Bonus_314
+    21300684: Cotton_Bonus_315
+    21300686: Cotton_Bonus_316
+    21300688: Cotton_Bonus_317
+    21300690: Cotton_Bonus_318
+    21300692: Cotton_Bonus_319
+    21300694: Cotton_Bonus_320
+    21300696: Cotton_Bonus_321
+    21300698: Cotton_Bonus_322
+    21300700: Cotton_Bonus_323
+    21300702: Cotton_Bonus_324
+    21300704: Cotton_Bonus_325
+    21300706: Cotton_Bonus_326
+    21300708: Cotton_Bonus_327
+    21300710: Cotton_Bonus_328
+    21300712: Cotton_Bonus_329
+    21300714: Cotton_Bonus_330
+    21300716: Cotton_Bonus_331
+    21300718: Cotton_Bonus_332
+    21300720: Cotton_Bonus_333
+    21300722: Cotton_Bonus_334
+    21300724: Cotton_Bonus_335
+    21300726: Cotton_Bonus_336
+    21300728: Cotton_Bonus_337
+    21300730: Cotton_Bonus_338
+    21300732: Cotton_Bonus_339
+    21300734: Cotton_Bonus_340
+    21300736: Cotton_Bonus_341
+    21300738: Cotton_Bonus_342
+    21300740: Cotton_Bonus_343
+    21300742: Cotton_Bonus_344
+    21300744: Cotton_Bonus_345
+    21300746: Cotton_Bonus_346
+    21300748: Cotton_Bonus_347
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: tvOS
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Cotton_Bonus_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_1
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_3
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_4
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_5
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_6
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_7
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1536
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_9
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_10
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_11
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_12
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_13
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_14
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_15
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 1024
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_17
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_18
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_19
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_20
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_21
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_22
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_23
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 512
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_25
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Cotton_Bonus_26
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 0
+        width: 512
+        height: 512
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53e27289711ab4199bf5e3c1ff5a9404, type: 3}
+  m_Name: Audio-Nitki_Long Blocks
+  m_EditorClassIdentifier: 
+  Name: Nitki_Long Blocks
+  AmountInPool: 3
+  Volume: 0.5
+  IsLooped: 0
+  Clip: {fileID: 8300000, guid: ed9c71f589ae9b84b92f49ef6147d6fa, type: 3}
+  FileName: Nitki_Long Blocks

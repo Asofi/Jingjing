@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9dd33737107eb534db8e19897bea6d71, type: 3}
+  m_Name: Chemistry
+  m_EditorClassIdentifier: 
+  Cost: 1000
+  Bates: {fileID: 21300000, guid: 685b83335ef3aff43af2aebd8d7c11ba, type: 3}
+  Ball: {fileID: 21300000, guid: 2c4539b4776213f42bb72610571313e1, type: 3}
+  Deck: {fileID: 21300000, guid: d279d97453ca94d4fbc169840fec4c36, type: 3}
+  Background: {fileID: 21300000, guid: b51fc80b39f7ef8449865ee995a3e5a8, type: 3}
+  Header: {fileID: 21300000, guid: 96f7bdb05629d4145af538cc03803b75, type: 3}
+  Leaderboard: {fileID: 21300000, guid: 2414060139bf9374b99409259427a189, type: 3}
+  Sound: {fileID: 21300000, guid: b1dd91534ed2ece499b298fd360f6188, type: 3}
+  SoundOff: {fileID: 21300000, guid: 4e355fb8815c5dd4cb5566d7ede5e99c, type: 3}
+  Share: {fileID: 21300000, guid: 1b117c8b83cefc541b2ccf6511c926e2, type: 3}
+  CommonController: {fileID: 9100000, guid: cf6fb6ba45d41ef40915b42662ca89fd, type: 2}
+  CommonSound: Chem_Main Blocks
+  SpinnerController: {fileID: 9100000, guid: 579221ea60c1b2440b0b207559e22327, type: 2}
+  SpinnerSound: Chem_Long Blocks
+  SolidController: {fileID: 9100000, guid: eab98e406773f044bb7abccf649428b3, type: 2}
+  SolidSound: Chem_Double Blocks
+  SolidCrashSound: Chem_Double Blocks Crashed
+  StickyController: {fileID: 9100000, guid: 926e3cdf22988bc4aaaeb080b0d2e788, type: 2}
+  StickySound: Chem_05 Blocks
+  BonusController: {fileID: 9100000, guid: 684ea0868985add4a99504b873cf40f2, type: 2}
+  BonusSound: Chem_Star Blocks
