@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Candies_Long Blocks
   m_EditorClassIdentifier: 
   Name: Candies_Long Blocks
-  AmountInPool: 3
+  AmountInPool: 5
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: 0c7d0493fa59e8649928dfa21ca4a71d, type: 3}

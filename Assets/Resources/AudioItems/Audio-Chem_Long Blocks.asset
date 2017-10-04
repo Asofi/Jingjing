@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Chem_Long Blocks
   m_EditorClassIdentifier: 
   Name: Chem_Long Blocks
-  AmountInPool: 3
+  AmountInPool: 5
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: f87969280dca5ad4788f23e38e5d6c09, type: 3}

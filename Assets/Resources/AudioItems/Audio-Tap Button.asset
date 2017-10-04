@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Tap Button
   m_EditorClassIdentifier: 
   Name: Tap
-  AmountInPool: 5
+  AmountInPool: 8
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: 3f2102a04e8d6954aab3f49fa29ebecc, type: 3}

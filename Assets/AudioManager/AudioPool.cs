@@ -87,6 +87,7 @@ namespace TapAudio
 				}
 				else
 				{
+                    Debug.LogError("Pool is Oleg");
 					return null;
 				}
 			}

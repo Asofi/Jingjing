@@ -66,17 +66,12 @@ public class Controller : MonoBehaviour {
                 {
                     Bump(Bate.RIGHT);
                 }
-                if (Input.GetMouseButtonDown(0))
-                {
-                    if(PlayerPrefs.GetInt("choosed_skin") != 2)
-                        AudioManager.PlayAudio("Mechanizms");
-                }
 
         if (Input.GetKey(KeyCode.Slash))
             Bump(Bate.RIGHT);
         if (Input.GetKey(KeyCode.Z))
             Bump(Bate.LEFT);
-                
+
 #else
 
         // мобильное устройство
@@ -89,7 +84,9 @@ public class Controller : MonoBehaviour {
                         Bump(Bate.RIGHT);
                     if (touches[i].phase == TouchPhase.Began)
                     {
-                        //EventManager.TriggerOnTap();
+                        if (PlayerPrefs.GetInt("choosed_skin") != 2) {
+                            AudioManager.PlayAudio("Mechanizms");
+                        }
                     }
                 }
 #endif

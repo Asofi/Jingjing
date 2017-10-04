@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Candies_Star Blocks
   m_EditorClassIdentifier: 
   Name: Candies_Star Blocks
-  AmountInPool: 3
+  AmountInPool: 5
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: e78f44ffedfa9654daa44d53210d600e, type: 3}

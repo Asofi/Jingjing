@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Nitki_Star Blocks
   m_EditorClassIdentifier: 
   Name: Nitki_Star Blocks
-  AmountInPool: 3
+  AmountInPool: 5
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: cb8f48dd53141594580209898cc21f28, type: 3}

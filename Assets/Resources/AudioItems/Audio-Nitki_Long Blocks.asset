@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Audio-Nitki_Long Blocks
   m_EditorClassIdentifier: 
   Name: Nitki_Long Blocks
-  AmountInPool: 3
+  AmountInPool: 5
   Volume: 0.5
   IsLooped: 0
   Clip: {fileID: 8300000, guid: ed9c71f589ae9b84b92f49ef6147d6fa, type: 3}
