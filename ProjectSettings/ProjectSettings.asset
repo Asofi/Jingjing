@@ -604,11 +604,11 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 1
+    UNet: 0
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: a5e11815-921b-44b9-8cb6-df9df3f25af3
-  projectName: Space Box
+  cloudProjectId: 1af34a8d-5616-4a34-9d25-4ace83c7405e
+  projectName: Jing! Jing!
   organizationId: fast-tap-llc
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
