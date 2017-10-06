@@ -73,6 +73,8 @@ public class GameManager : MonoBehaviour {
         CurrentLives = StartLives;
 
         AudioManager.PlayAudioControllable("Soundtrack");
+
+        Application.targetFrameRate = 60;
 	}
 
     private void EventManager_OnAddScore(int amount)

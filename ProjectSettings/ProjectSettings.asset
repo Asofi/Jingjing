@@ -14,11 +14,11 @@ PlayerSettings:
   productName: Jing! Jing!
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
-  m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
+  m_SplashScreenBackgroundColor: {r: 0, g: 0, b: 0, a: 1}
   m_ShowUnitySplashScreen: 1
-  m_ShowUnitySplashLogo: 1
+  m_ShowUnitySplashLogo: 0
   m_SplashScreenOverlayOpacity: 1
-  m_SplashScreenAnimation: 1
+  m_SplashScreenAnimation: 0
   m_SplashScreenLogoStyle: 1
   m_SplashScreenDrawMode: 0
   m_SplashScreenBackgroundAnimationZoom: 1
@@ -37,7 +37,9 @@ PlayerSettings:
     y: 0
     width: 1
     height: 1
-  m_SplashScreenLogos: []
+  m_SplashScreenLogos:
+  - logo: {fileID: 21300000, guid: e6b2058f41a64644ab63b52982a4399e, type: 3}
+    duration: 2
   m_SplashScreenBackgroundLandscape: {fileID: 0}
   m_SplashScreenBackgroundPortrait: {fileID: 0}
   m_VirtualRealitySplashScreen: {fileID: 0}
@@ -144,11 +146,11 @@ PlayerSettings:
     Android: io.fasttap.jingjing
     Standalone: unity.DefaultCompany.PinballArcanoid
     Tizen: com.Company.ProductName
-    iOS: com.Company.ProductName
+    iOS: io.fasttap.jingjing
     tvOS: com.Company.ProductName
   buildNumber:
     iOS: 0
-  AndroidBundleVersionCode: 1
+  AndroidBundleVersionCode: 2
   AndroidMinSdkVersion: 16
   AndroidTargetSdkVersion: 0
   AndroidPreferredInstallLocation: 1
@@ -166,7 +168,7 @@ PlayerSettings:
     serializedVersion: 2
     m_Bits: 238
   iPhoneSdkVersion: 988
-  iOSTargetOSVersionString: 
+  iOSTargetOSVersionString: 7.0
   tvOSSdkVersion: 0
   tvOSRequireExtendedGameController: 0
   tvOSTargetOSVersionString: 
@@ -222,7 +224,7 @@ PlayerSettings:
   AndroidTargetDevice: 0
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/Mini Games/FastTap.keystore
+  AndroidKeystoreName: C:/Users/DVLP_1/Documents/GitHub/Jingjing/FastTap.keystore
   AndroidKeyaliasName: jingjing
   AndroidTVCompatibility: 1
   AndroidIsGame: 1
@@ -512,6 +514,8 @@ PlayerSettings:
   webGLUseWasm: 0
   webGLCompressionFormat: 1
   scriptingDefineSymbols:
+    1: ODIN_INSPECTOR
+    4: ODIN_INSPECTOR;NO_GPGS
     7: ODIN_INSPECTOR
   platformArchitecture: {}
   scriptingBackend: {}
@@ -604,7 +608,7 @@ PlayerSettings:
     Collab: 0
     ErrorHub: 0
     Hub: 0
-    UNet: 0
+    UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
   cloudProjectId: 1af34a8d-5616-4a34-9d25-4ace83c7405e
