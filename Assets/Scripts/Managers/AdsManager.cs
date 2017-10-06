@@ -3,11 +3,11 @@ using UnityEngine.Advertisements;
 
 public class AdsManager : MonoBehaviour {
     private void Start() {
-#if UNITY_ANDROID
-        Advertisement.Initialize("1434477", false);
-#else
-        Advertisement.Initialize("1434478", false);
-#endif
+//#if UNITY_ANDROID
+//        Advertisement.Initialize("1434477", false);
+//#else
+//        Advertisement.Initialize("1434478", false);
+//#endif
     }
 
     public void ShowRewardedAd() {

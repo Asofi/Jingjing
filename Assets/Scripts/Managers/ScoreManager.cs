@@ -68,7 +68,7 @@ public class ScoreManager : MonoBehaviour {
     public void Auth() {
         Social.localUser.Authenticate((bool success) => {
             if (success) {
-                Social.ReportScore(BestScore, "CgkIqNyn1rkEEAIQAA", (bool success1) => {
+                Social.ReportScore(BestScore, boardID, (bool success1) => {
                     // handle success or failure
                 });
                 if (SuperManager.Instance.GM.IsFirstStart) {

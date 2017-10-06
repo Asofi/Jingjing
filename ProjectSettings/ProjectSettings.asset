@@ -600,13 +600,16 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
-    Collab: 1
+    Build: 0
+    Collab: 0
+    ErrorHub: 0
+    Hub: 0
     UNet: 1
   facebookSdkVersion: 7.9.1
   apiCompatibilityLevel: 2
-  cloudProjectId: 5015c926-02fa-4acc-8fd8-e898145d12a6
-  projectName: PinballArcanoid
-  organizationId: asofi
+  cloudProjectId: a5e11815-921b-44b9-8cb6-df9df3f25af3
+  projectName: Space Box
+  organizationId: fast-tap-llc
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
